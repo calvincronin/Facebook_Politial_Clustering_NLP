@@ -1,3 +1,6 @@
+# Preface
+This is a reduced form of the full paper which can be found in this repo. 
+
 # Abstract
 Meta’s Ad Library offers an unprecedented opportunity to more closely examine political marketing trends on one of the largest digital advertising platforms. With this data unsupervised learning applications of Natural Language Processing (NLP) can be leveraged to group advertisement records by political parties. An optimal approach to this task can be deduced through a comprehensive comparison of text vectorization and unsupervised learning models. A reliable model for tying political party affiliation to record-level advertisements would transitively affiliate specific spending and targeting patterns with the same political parties. The aggregate results of which could reveal novel political narratives that exist on a massive scale. Ultimately, of the tested methods, TFIDF text vectorization with K-means clustering resulted in the best model for grouping documents of a given political identity.
 
